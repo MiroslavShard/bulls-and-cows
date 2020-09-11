@@ -29,9 +29,9 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 © Miroslav Stetsiuk (@MiroslavShard) - 2020
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/MiroslavShard/bulls-and-cows
 [contributors-url]: https://github.com/MiroslavShard/bulls-and-cows/graphs/contributors
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/MiroslavShard/bulls-and-cows
 [stars-url]: https://github.com/MiroslavShard/bulls-and-cows/stargazers
 [issues-shield]: https://img.shields.io/bitbucket/issues/MiroslavShard/bulls-and-cows
 [issues-url]: https://github.com/MiroslavShard/bulls-and-cows/issues
