@@ -1,9 +1,6 @@
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 # Bulls and Cows
 My goal is to create a Bulls and Cows game in Unity.
@@ -20,12 +17,25 @@ Of course yes, but <b>you must leave a message</b> `© Miroslav Stetsiuk (@Miros
 Unity Engine: 2020.1.3f1
 
 ## License
+[![MIT License][license-shield]][license-url]<br>
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/MiroslavShard/bulls-and-cows/blob/master/LICENSE) file for details.
 
 ## Contacts
 Twitter [@MiroslavShard](https://twitter.com/miroslavshard)
 
-LinkedIn [@MiroslavShard](https://www.linkedin.com/in/miroslavshard)
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 ## Author
 © Miroslav Stetsiuk (@MiroslavShard) - 2020
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
+[contributors-url]: https://github.com/MiroslavShard/bulls-and-cows/graphs/contributors
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
+[stars-url]: https://github.com/MiroslavShard/bulls-and-cows/stargazers
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
+[issues-url]: https://github.com/MiroslavShard/bulls-and-cows/issues
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
+[license-url]: https://github.com/MiroslavShard/bulls-and-cows/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/MiroslavShard
