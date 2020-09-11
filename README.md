@@ -21,8 +21,8 @@ Unity Engine: 2020.1.3f1
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/MiroslavShard/bulls-and-cows/blob/master/LICENSE) file for details.
 
 ## Contacts
-[![Twitter][twitter-shield]][twitter-url]<br>
-[![GitHub][github-shield]][github-url]<br>
+[![Twitter][twitter-shield]][twitter-url]
+[![GitHub][github-shield]][github-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 ## Author
