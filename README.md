@@ -37,9 +37,9 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 [issues-url]: https://github.com/MiroslavShard/bulls-and-cows/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
 [license-url]: https://github.com/MiroslavShard/bulls-and-cows/blob/master/LICENSE.txt
-[twitter-shield]: https://img.shields.io/twitter/follow/MiroslavShard?style=social
+[twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?logo=twitter&color=white
 [twitter-url]: https://twitter.com/MiroslavShard
-[github-shield]: https://img.shields.io/github/followers/miroslavshard?label=MiroslavShard&style=social
+[github-shield]: https://img.shields.io/badge/-GitHub-black.svg?logo=github&color=grey
 [github-url]: https://github.com/MiroslavShard
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?logo=linkedin&color=blue
 [linkedin-url]: https://linkedin.com/in/MiroslavShard
