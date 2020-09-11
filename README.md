@@ -21,8 +21,8 @@ Unity Engine: 2020.1.3f1
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/MiroslavShard/bulls-and-cows/blob/master/LICENSE) file for details.
 
 ## Contacts
-Twitter [@MiroslavShard](https://twitter.com/miroslavshard)
-
+[![Twitter][twitter-shield]][twitter-url]<br>
+[![GitHub][github-shield]][github-url]<br>
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 ## Author
@@ -37,5 +37,9 @@ Twitter [@MiroslavShard](https://twitter.com/miroslavshard)
 [issues-url]: https://github.com/MiroslavShard/bulls-and-cows/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
 [license-url]: https://github.com/MiroslavShard/bulls-and-cows/blob/master/LICENSE.txt
+[twitter-shield]: https://img.shields.io/twitter/follow/MiroslavShard?style=social
+[twitter-url]: https://twitter.com/MiroslavShard
+[github-shield]: https://img.shields.io/github/followers/miroslavshard?label=MiroslavShard&style=social
+[github-url]: https://github.com/MiroslavShard
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/MiroslavShard
