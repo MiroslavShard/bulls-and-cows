@@ -33,7 +33,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 [contributors-url]: https://github.com/MiroslavShard/bulls-and-cows/graphs/contributors
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
 [stars-url]: https://github.com/MiroslavShard/bulls-and-cows/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
+[issues-shield]: https://img.shields.io/bitbucket/issues/MiroslavShard/bulls-and-cows
 [issues-url]: https://github.com/MiroslavShard/bulls-and-cows/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
 [license-url]: https://github.com/MiroslavShard/bulls-and-cows/blob/master/LICENSE.txt
